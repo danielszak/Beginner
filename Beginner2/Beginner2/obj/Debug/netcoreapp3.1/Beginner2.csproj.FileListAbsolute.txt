@@ -1,0 +1,13 @@
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\bin\Debug\netcoreapp3.1\Beginner2.exe
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\bin\Debug\netcoreapp3.1\Beginner2.deps.json
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\bin\Debug\netcoreapp3.1\Beginner2.runtimeconfig.json
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\bin\Debug\netcoreapp3.1\Beginner2.runtimeconfig.dev.json
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\bin\Debug\netcoreapp3.1\Beginner2.dll
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\bin\Debug\netcoreapp3.1\Beginner2.pdb
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\obj\Debug\netcoreapp3.1\Beginner2.csproj.CoreCompileInputs.cache
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\obj\Debug\netcoreapp3.1\Beginner2.AssemblyInfoInputs.cache
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\obj\Debug\netcoreapp3.1\Beginner2.AssemblyInfo.cs
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\obj\Debug\netcoreapp3.1\Beginner2.dll
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\obj\Debug\netcoreapp3.1\Beginner2.pdb
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\obj\Debug\netcoreapp3.1\Beginner2.genruntimeconfig.cache
+C:\Users\Dandi\source\repos\Beginner2\Beginner2\obj\Debug\netcoreapp3.1\Beginner2.csprojAssemblyReference.cache
