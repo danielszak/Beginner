@@ -1,0 +1,7 @@
+C:\Users\Dandi\source\repos\Beginner4\Beginner4\bin\Debug\Beginner4.exe.config
+C:\Users\Dandi\source\repos\Beginner4\Beginner4\bin\Debug\Beginner4.exe
+C:\Users\Dandi\source\repos\Beginner4\Beginner4\bin\Debug\Beginner4.pdb
+C:\Users\Dandi\source\repos\Beginner4\Beginner4\obj\Debug\Beginner4.csprojAssemblyReference.cache
+C:\Users\Dandi\source\repos\Beginner4\Beginner4\obj\Debug\Beginner4.csproj.CoreCompileInputs.cache
+C:\Users\Dandi\source\repos\Beginner4\Beginner4\obj\Debug\Beginner4.exe
+C:\Users\Dandi\source\repos\Beginner4\Beginner4\obj\Debug\Beginner4.pdb
